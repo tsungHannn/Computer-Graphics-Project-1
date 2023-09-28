@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Unity.targets(165,5): warning : Could not find a part of the path 'C:\Users\jelly\Desktop\Project3_B10830225_B10815066\Robot\Robot\Debug\unity_57XVDV61ZAIQ9L0R.cpp'.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Unity.targets(165,5): warning : Could not find a part of the path 'C:\Users\jelly\Desktop\Project3_B10830225_B10815066\Robot\Robot\Debug\unity_V28G4R9167VXN0IX.cpp'.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Unity.targets(165,5): warning : Could not find a part of the path 'C:\Users\jelly\Desktop\Project3_B10830225_B10815066\Robot\Robot\Debug\unity_4OWEFA36533JEZ0K.cpp'.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Unity.targets(165,5): warning : Could not find a part of the path 'C:\Users\jelly\Desktop\Project3_B10830225_B10815066\Robot\Robot\Debug\unity_ATNAJOZU2MQIG234.cpp'.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Unity.targets(165,5): warning : Could not find a part of the path 'C:\Users\jelly\Desktop\Project3_B10830225_B10815066\Robot\Robot\Debug\unity_65ZE78X0UJ93VH36.cpp'.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Unity.targets(165,5): warning : Could not find a part of the path 'C:\Users\jelly\Desktop\Project3_B10830225_B10815066\Robot\Robot\Debug\unity_D35PR2FHNY0DJDF6.cpp'.
+  unity_QNPZMRSO3Q7E6PAM.cpp
+  unity_RE2A55H2H6F9ZHV9.cpp
+  unity_YJS3JX8RQKM9S0JM.cpp
+  unity_QCY4M3HDEOQWI9X1.cpp
+  unity_LI2PCHY3EFS51R0H.cpp
+  unity_0M5MQ6CVNIGVNV1N.cpp
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Include\Cubemap.h(10,2): warning C4091: 'typedef ': ignored on left of 'CubemapTexture' when no variable is declared (compiling source file Debug\unity_YJS3JX8RQKM9S0JM.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Cubemap.cpp(98,20): warning C4018: '<': signed/unsigned mismatch (compiling source file Debug\unity_YJS3JX8RQKM9S0JM.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Include\CubeMap.h(10,2): warning C4091: 'typedef ': ignored on left of 'CubemapTexture' when no variable is declared (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(8,28): warning C4316: 'ViewManager': object allocated on the heap may not be aligned 16 (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(10,27): warning C4316: 'LightSource': object allocated on the heap may not be aligned 16 (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(18,26): warning C4316: 'RobotModel': object allocated on the heap may not be aligned 16 (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(154,16): warning C4305: '=': truncation from 'double' to 'float' (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(155,21): warning C4018: '<': signed/unsigned mismatch (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(159,16): warning C4305: '=': truncation from 'double' to 'float' (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(160,21): warning C4018: '<': signed/unsigned mismatch (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(164,16): warning C4305: '=': truncation from 'double' to 'float' (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\Scene.cpp(165,21): warning C4018: '<': signed/unsigned mismatch (compiling source file Debug\unity_LI2PCHY3EFS51R0H.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Include\CubeMap.h(10,2): warning C4091: 'typedef ': ignored on left of 'CubemapTexture' when no variable is declared (compiling source file Debug\unity_QCY4M3HDEOQWI9X1.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Include\CubeMap.h(10,2): warning C4091: 'typedef ': ignored on left of 'CubemapTexture' when no variable is declared (compiling source file Debug\unity_RE2A55H2H6F9ZHV9.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\RobotModel.cpp(16,50): warning C4316: 'BaseParticleProp': object allocated on the heap may not be aligned 16 (compiling source file Debug\unity_QCY4M3HDEOQWI9X1.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\RobotModel.cpp(28,56): warning C4316: 'BaseParticleProp': object allocated on the heap may not be aligned 16 (compiling source file Debug\unity_QCY4M3HDEOQWI9X1.cpp)
+C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Robot\Source\RobotModel.cpp(62,28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data (compiling source file Debug\unity_QCY4M3HDEOQWI9X1.cpp)
+  Robot.vcxproj -> C:\Users\user\Desktop\Project3_B10830225_B10815066\Robot\Debug\Robot.exe

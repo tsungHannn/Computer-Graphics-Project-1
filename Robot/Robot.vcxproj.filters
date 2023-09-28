@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="來源檔案\ThirdParty">
+      <UniqueIdentifier>{b461f3ce-14e9-4407-aa53-b0497f361f64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Shader">
+      <UniqueIdentifier>{66eeafb6-d99b-4512-8f49-19b47e68707f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Shader">
+      <UniqueIdentifier>{5f39e657-7478-4bed-8148-65d4cc2c1166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Model">
+      <UniqueIdentifier>{27432aa4-1b74-4ba0-a6e2-5f18fbfa39d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Model">
+      <UniqueIdentifier>{84589bc8-5e06-4346-b956-2daa5831d784}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Shader">
+      <UniqueIdentifier>{2dcbf8d5-d3f7-418a-96ec-2e4670a1fcf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Model">
+      <UniqueIdentifier>{04455c0e-dd52-4898-8372-16e9f30a3f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Model\Robot">
+      <UniqueIdentifier>{d6213a74-b707-4a8e-8fd1-8850ad4f5d92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Animation">
+      <UniqueIdentifier>{9858b3b1-7372-4930-994c-8342179adaba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Animation">
+      <UniqueIdentifier>{86123ea6-6f9c-4d1c-bd97-ee16bf010200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Effects">
+      <UniqueIdentifier>{6ff46b67-96a2-473a-9a5c-3ebd7d0271f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Effect">
+      <UniqueIdentifier>{f13d9efa-eac4-42d2-bedf-378288876ef8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\ViewManager.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Common.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Scene.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ShaderProgram.cpp">
+      <Filter>來源檔案\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Shader.cpp">
+      <Filter>來源檔案\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BaseModel.cpp">
+      <Filter>來源檔案\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\tiny_obj_loader.cpp">
+      <Filter>來源檔案\ThirdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\RobotModel.cpp">
+      <Filter>來源檔案\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BaseModelPart.cpp">
+      <Filter>來源檔案\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\RobotModelPart.cpp">
+      <Filter>來源檔案\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Animation.cpp">
+      <Filter>來源檔案\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AnimationClip.cpp">
+      <Filter>來源檔案\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AnimationCurve.cpp">
+      <Filter>來源檔案\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Cubemap.cpp">
+      <Filter>來源檔案\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Random.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ShaderObject.cpp">
+      <Filter>來源檔案\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BaseParticleEffect.cpp">
+      <Filter>來源檔案\Effect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\Common.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Scene.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\ViewManager.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\ShaderProgram.h">
+      <Filter>標頭檔\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Shader.h">
+      <Filter>標頭檔\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\BaseModel.h">
+      <Filter>標頭檔\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\RobotModel.h">
+      <Filter>標頭檔\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\BaseModelPart.h">
+      <Filter>標頭檔\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\RobotModelPart.h">
+      <Filter>標頭檔\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Animation.h">
+      <Filter>標頭檔\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\AnimationClip.h">
+      <Filter>標頭檔\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\AnimationCurve.h">
+      <Filter>標頭檔\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CubeMap.h">
+      <Filter>標頭檔\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Random.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\BaseParticleProp.h">
+      <Filter>標頭檔\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\ShaderObject.h">
+      <Filter>標頭檔\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\BaseParticleEffect.h">
+      <Filter>標頭檔\Effects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Asset\fragment.fs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\vertex.vs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\robot.mtl">
+      <Filter>資源檔\Model\Robot</Filter>
+    </None>
+    <None Include="Asset\robot.obj">
+      <Filter>資源檔\Model\Robot</Filter>
+    </None>
+    <None Include="Asset\cubemap.fs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\cubemap.vs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\depthmap.fs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\depthmap.vs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\debug_quad.fs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\debug_quad.vs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\particle.vs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+    <None Include="Asset\particle.fs.glsl">
+      <Filter>資源檔\Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Asset\robot_color.png">
+      <Filter>資源檔\Model\Robot</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

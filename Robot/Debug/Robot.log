@@ -1,0 +1,18 @@
+﻿  unity_5E4V5VHQSU93QDLL.cpp
+  unity_FCV1SBLJ7OSXWKCJ.cpp
+  unity_NN0HF5XDF59IROTZ.cpp
+  unity_VHW0ONMHB1M3C01Z.cpp
+  unity_RGFEKVILVKLNCEMH.cpp
+  unity_5FD6LIONTLDZ9UHS.cpp
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_FCV1SBLJ7OSXWKCJ.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_FCV1SBLJ7OSXWKCJ.cpp(2,10): fatal error C1083: 無法開啟包含檔案: 'D:\1102\?餉?飛Quiz\Project1\Robot\Robot\Source\BaseModel.cpp': No such file or directory
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_NN0HF5XDF59IROTZ.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_NN0HF5XDF59IROTZ.cpp(2,10): fatal error C1083: 無法開啟包含檔案: 'D:\1102\?餉?飛Quiz\Project1\Robot\Robot\Source\Common.cpp': No such file or directory
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_RGFEKVILVKLNCEMH.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_RGFEKVILVKLNCEMH.cpp(2,10): fatal error C1083: 無法開啟包含檔案: 'D:\1102\?餉?飛Quiz\Project1\Robot\Robot\Source\Scene.cpp': No such file or directory
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_5E4V5VHQSU93QDLL.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_5E4V5VHQSU93QDLL.cpp(2,10): fatal error C1083: 無法開啟包含檔案: 'D:\1102\?餉?飛Quiz\Project1\Robot\Robot\Source\Animation.cpp': No such file or directory
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_5FD6LIONTLDZ9UHS.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_5FD6LIONTLDZ9UHS.cpp(2,10): fatal error C1083: 無法開啟包含檔案: 'D:\1102\?餉?飛Quiz\Project1\Robot\Robot\Source\ShaderProgram.cpp': No such file or directory
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_VHW0ONMHB1M3C01Z.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\1102\電腦圖學Quiz\Project1\Robot\Robot\Debug\unity_VHW0ONMHB1M3C01Z.cpp(2,10): fatal error C1083: 無法開啟包含檔案: 'D:\1102\?餉?飛Quiz\Project1\Robot\Robot\Source\Random.cpp': No such file or directory

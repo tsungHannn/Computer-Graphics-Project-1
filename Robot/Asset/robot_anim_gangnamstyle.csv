@@ -1,0 +1,744 @@
+﻿,`====,PART 1,`====,
+,,,,
+0,12,RX,-10,Foot Down
+0,12,RZ,-15,Foot Down
+0,13,RX,10,Foot Down
+0,13,RZ,10,Foot Down
+0,14,RX,10,Foot Down
+0,16,RX,-10,Foot Down
+0,16,RZ,15,Foot Down
+0,17,RX,10,Foot Down
+0,17,RZ,-10,Foot Down
+0,18,RX,10,Foot Down
+210,12,RX,-80,Foot Right
+210,12,RZ,-15,Foot Right
+210,13,RX,90,Foot Right
+210,13,RZ,0,Foot Right
+210,14,RX,30,Foot Right
+210,16,RX,-5,Foot Right
+210,16,RZ,15,Foot Right
+210,17,RX,5,Foot Right
+210,17,RZ,-5,Foot Right
+210,18,RX,5,Foot Right
+420,12,RX,-10,Foot Down
+420,12,RZ,-15,Foot Down
+420,13,RX,10,Foot Down
+420,13,RZ,10,Foot Down
+420,14,RX,10,Foot Down
+420,16,RX,-10,Foot Down
+420,16,RZ,15,Foot Down
+420,17,RX,10,Foot Down
+420,17,RZ,-10,Foot Down
+420,18,RX,10,Foot Down
+630,12,RX,-5,Foot Left
+630,12,RZ,-15,Foot Left
+630,13,RX,5,Foot Left
+630,13,RZ,5,Foot Left
+630,14,RX,5,Foot Left
+630,16,RX,-80,Foot Left
+630,16,RZ,15,Foot Left
+630,17,RX,90,Foot Left
+630,17,RZ,0,Foot Left
+630,18,RX,30,Foot Left
+840,12,RX,-10,Foot Down
+840,12,RZ,-15,Foot Down
+840,13,RX,10,Foot Down
+840,13,RZ,10,Foot Down
+840,14,RX,10,Foot Down
+840,16,RX,-10,Foot Down
+840,16,RZ,15,Foot Down
+840,17,RX,10,Foot Down
+840,17,RZ,-10,Foot Down
+840,18,RX,10,Foot Down
+1050,12,RX,-80,Foot Right
+1050,12,RZ,-15,Foot Right
+1050,13,RX,90,Foot Right
+1050,13,RZ,0,Foot Right
+1050,14,RX,30,Foot Right
+1050,16,RX,-5,Foot Right
+1050,16,RZ,15,Foot Right
+1050,17,RX,5,Foot Right
+1050,17,RZ,-5,Foot Right
+1050,18,RX,5,Foot Right
+1260,12,RX,-10,Foot Down
+1260,12,RZ,-15,Foot Down
+1260,13,RX,10,Foot Down
+1260,13,RZ,10,Foot Down
+1260,14,RX,10,Foot Down
+1260,16,RX,-10,Foot Down
+1260,16,RZ,15,Foot Down
+1260,17,RX,10,Foot Down
+1260,17,RZ,-10,Foot Down
+1260,18,RX,10,Foot Down
+1470,12,RX,-80,Foot Right
+1470,12,RZ,-15,Foot Right
+1470,13,RX,90,Foot Right
+1470,13,RZ,0,Foot Right
+1470,14,RX,30,Foot Right
+1470,16,RX,-5,Foot Right
+1470,16,RZ,15,Foot Right
+1470,17,RX,5,Foot Right
+1470,17,RZ,-5,Foot Right
+1470,18,RX,5,Foot Right
+1680,12,RX,-10,Foot Down
+1680,12,RZ,-15,Foot Down
+1680,13,RX,10,Foot Down
+1680,13,RZ,10,Foot Down
+1680,14,RX,10,Foot Down
+1680,16,RX,-10,Foot Down
+1680,16,RZ,15,Foot Down
+1680,17,RX,10,Foot Down
+1680,17,RZ,-10,Foot Down
+1680,18,RX,10,Foot Down
+1890,12,RX,-5,Foot Left
+1890,12,RZ,-15,Foot Left
+1890,13,RX,5,Foot Left
+1890,13,RZ,5,Foot Left
+1890,14,RX,5,Foot Left
+1890,16,RX,-80,Foot Left
+1890,16,RZ,15,Foot Left
+1890,17,RX,90,Foot Left
+1890,17,RZ,0,Foot Left
+1890,18,RX,30,Foot Left
+2100,12,RX,-10,Foot Down
+2100,12,RZ,-15,Foot Down
+2100,13,RX,10,Foot Down
+2100,13,RZ,10,Foot Down
+2100,14,RX,10,Foot Down
+2100,16,RX,-10,Foot Down
+2100,16,RZ,15,Foot Down
+2100,17,RX,10,Foot Down
+2100,17,RZ,-10,Foot Down
+2100,18,RX,10,Foot Down
+2310,12,RX,-80,Foot Right
+2310,12,RZ,-15,Foot Right
+2310,13,RX,90,Foot Right
+2310,13,RZ,0,Foot Right
+2310,14,RX,30,Foot Right
+2310,16,RX,-5,Foot Right
+2310,16,RZ,15,Foot Right
+2310,17,RX,5,Foot Right
+2310,17,RZ,-5,Foot Right
+2310,18,RX,5,Foot Right
+2520,12,RX,-10,Foot Down
+2520,12,RZ,-15,Foot Down
+2520,13,RX,10,Foot Down
+2520,13,RZ,10,Foot Down
+2520,14,RX,10,Foot Down
+2520,16,RX,-10,Foot Down
+2520,16,RZ,15,Foot Down
+2520,17,RX,10,Foot Down
+2520,17,RZ,-10,Foot Down
+2520,18,RX,10,Foot Down
+2730,12,RX,-5,Foot Left
+2730,12,RZ,-15,Foot Left
+2730,13,RX,5,Foot Left
+2730,13,RZ,5,Foot Left
+2730,14,RX,5,Foot Left
+2730,16,RX,-80,Foot Left
+2730,16,RZ,15,Foot Left
+2730,17,RX,90,Foot Left
+2730,17,RZ,0,Foot Left
+2730,18,RX,30,Foot Left
+2940,12,RX,-10,Foot Down
+2940,12,RZ,-15,Foot Down
+2940,13,RX,10,Foot Down
+2940,13,RZ,10,Foot Down
+2940,14,RX,10,Foot Down
+2940,16,RX,-10,Foot Down
+2940,16,RZ,15,Foot Down
+2940,17,RX,10,Foot Down
+2940,17,RZ,-10,Foot Down
+2940,18,RX,10,Foot Down
+3150,12,RX,-5,Foot Left
+3150,12,RZ,-15,Foot Left
+3150,13,RX,5,Foot Left
+3150,13,RZ,5,Foot Left
+3150,14,RX,5,Foot Left
+3150,16,RX,-80,Foot Left
+3150,16,RZ,15,Foot Left
+3150,17,RX,90,Foot Left
+3150,17,RZ,0,Foot Left
+3150,18,RX,30,Foot Left
+3360,12,RX,-10,Foot Down
+3360,12,RZ,-15,Foot Down
+3360,13,RX,10,Foot Down
+3360,13,RZ,10,Foot Down
+3360,14,RX,10,Foot Down
+3360,16,RX,-10,Foot Down
+3360,16,RZ,15,Foot Down
+3360,17,RX,10,Foot Down
+3360,17,RZ,-10,Foot Down
+3360,18,RX,10,Foot Down
+,,,,
+0,3,RY,0,Waist Twist
+210,3,RY,15,Waist Twist
+420,3,RY,0,Waist Twist
+630,3,RY,-15,Waist Twist
+840,3,RY,0,Waist Twist
+1050,3,RY,15,Waist Twist
+1260,3,RY,0,Waist Twist
+1470,3,RY,15,Waist Twist
+1680,3,RY,0,Waist Twist
+1890,3,RY,-15,Waist Twist
+2100,3,RY,0,Waist Twist
+2310,3,RY,15,Waist Twist
+2520,3,RY,0,Waist Twist
+2730,3,RY,-15,Waist Twist
+2940,3,RY,0,Waist Twist
+3150,3,RY,-15,Waist Twist
+3360,3,RY,0,Waist Twist
+,,,,
+0,0,TY,0,Body Jump
+210,0,TY,1,Body Jump
+420,0,TY,0,Body Jump
+630,0,TY,1,Body Jump
+840,0,TY,0,Body Jump
+1050,0,TY,1,Body Jump
+1260,0,TY,0,Body Jump
+1470,0,TY,1,Body Jump
+1680,0,TY,0,Body Jump
+1890,0,TY,1,Body Jump
+2100,0,TY,0,Body Jump
+2310,0,TY,1,Body Jump
+2520,0,TY,0,Body Jump
+2730,0,TY,1,Body Jump
+2940,0,TY,0,Body Jump
+3150,0,TY,1,Body Jump
+3360,0,TY,0,Body Jump
+,,,,
+0,5,RX,-90,RHand
+0,5,RZ,-15,RHand
+0,6,RX,-75,RHand
+0,6,RZ,0,RHand
+0,7,RX,0,RHand
+105,5,RX,-90,RHand
+105,5,RZ,-15,RHand
+105,6,RX,-90,RHand
+105,6,RZ,15,RHand
+105,7,RX,0,RHand
+210,5,RX,-90,RHand
+210,5,RZ,-15,RHand
+210,6,RX,-105,RHand
+210,6,RZ,0,RHand
+210,7,RX,0,RHand
+315,5,RX,-90,RHand
+315,5,RZ,-15,RHand
+315,6,RX,-90,RHand
+315,6,RZ,-15,RHand
+315,7,RX,0,RHand
+420,5,RX,-90,RHand
+420,5,RZ,-15,RHand
+420,6,RX,-75,RHand
+420,6,RZ,0,RHand
+420,7,RX,0,RHand
+525,5,RX,-90,RHand
+525,5,RZ,-15,RHand
+525,6,RX,-90,RHand
+525,6,RZ,15,RHand
+525,7,RX,0,RHand
+630,5,RX,-90,RHand
+630,5,RZ,-15,RHand
+630,6,RX,-105,RHand
+630,6,RZ,0,RHand
+630,7,RX,0,RHand
+735,5,RX,-90,RHand
+735,5,RZ,-15,RHand
+735,6,RX,-90,RHand
+735,6,RZ,-15,RHand
+735,7,RX,0,RHand
+840,5,RX,-90,RHand
+840,5,RZ,-15,RHand
+840,6,RX,-75,RHand
+840,6,RZ,0,RHand
+840,7,RX,0,RHand
+945,5,RX,-90,RHand
+945,5,RZ,-15,RHand
+945,6,RX,-90,RHand
+945,6,RZ,15,RHand
+945,7,RX,0,RHand
+1050,5,RX,-90,RHand
+1050,5,RZ,-15,RHand
+1050,6,RX,-105,RHand
+1050,6,RZ,0,RHand
+1050,7,RX,0,RHand
+1155,5,RX,-90,RHand
+1155,5,RZ,-15,RHand
+1155,6,RX,-90,RHand
+1155,6,RZ,-15,RHand
+1155,7,RX,0,RHand
+1260,5,RX,-90,RHand
+1260,5,RZ,-15,RHand
+1260,6,RX,-75,RHand
+1260,6,RZ,0,RHand
+1260,7,RX,0,RHand
+1365,5,RX,-90,RHand
+1365,5,RZ,-15,RHand
+1365,6,RX,-90,RHand
+1365,6,RZ,15,RHand
+1365,7,RX,0,RHand
+1470,5,RX,-90,RHand
+1470,5,RZ,-15,RHand
+1470,6,RX,-105,RHand
+1470,6,RZ,0,RHand
+1470,7,RX,0,RHand
+1575,5,RX,-90,RHand
+1575,5,RZ,-15,RHand
+1575,6,RX,-90,RHand
+1575,6,RZ,-15,RHand
+1575,7,RX,0,RHand
+1680,5,RX,-90,RHand
+1680,5,RZ,-15,RHand
+1680,6,RX,-75,RHand
+1680,6,RZ,0,RHand
+1680,7,RY,0,RHand
+1785,5,RX,-90,RHand
+1785,5,RZ,-15,RHand
+1785,6,RX,-90,RHand
+1785,6,RZ,15,RHand
+1785,7,RY,0,RHand
+1890,5,RX,-90,RHand
+1890,5,RZ,-15,RHand
+1890,6,RX,-105,RHand
+1890,6,RZ,0,RHand
+1890,7,RY,0,RHand
+1995,5,RX,-90,RHand
+1995,5,RZ,-15,RHand
+1995,6,RX,-90,RHand
+1995,6,RZ,-15,RHand
+1995,7,RY,0,RHand
+2100,5,RX,-90,RHand
+2100,5,RZ,-15,RHand
+2100,6,RX,-75,RHand
+2100,6,RZ,0,RHand
+2100,7,RX,0,RHand
+2205,5,RX,-90,RHand
+2205,5,RZ,-15,RHand
+2205,6,RX,-90,RHand
+2205,6,RZ,15,RHand
+2205,7,RX,0,RHand
+2310,5,RX,-90,RHand
+2310,5,RZ,-15,RHand
+2310,6,RX,-105,RHand
+2310,6,RZ,0,RHand
+2310,7,RX,0,RHand
+2415,5,RX,-90,RHand
+2415,5,RZ,-15,RHand
+2415,6,RX,-90,RHand
+2415,6,RZ,-15,RHand
+2415,7,RX,0,RHand
+2520,5,RX,-90,RHand
+2520,5,RZ,-15,RHand
+2520,6,RX,-75,RHand
+2520,6,RZ,0,RHand
+2520,7,RX,0,RHand
+2625,5,RX,-90,RHand
+2625,5,RZ,-15,RHand
+2625,6,RX,-90,RHand
+2625,6,RZ,15,RHand
+2625,7,RX,0,RHand
+2730,5,RX,-90,RHand
+2730,5,RZ,-15,RHand
+2730,6,RX,-105,RHand
+2730,6,RZ,0,RHand
+2730,7,RX,0,RHand
+2835,5,RX,-90,RHand
+2835,5,RZ,-15,RHand
+2835,6,RX,-90,RHand
+2835,6,RZ,-15,RHand
+2835,7,RX,0,RHand
+2940,5,RX,-90,RHand
+2940,5,RZ,-15,RHand
+2940,6,RX,-75,RHand
+2940,6,RZ,0,RHand
+2940,7,RX,0,RHand
+3045,5,RX,-90,RHand
+3045,5,RZ,-15,RHand
+3045,6,RX,-90,RHand
+3045,6,RZ,15,RHand
+3045,7,RX,0,RHand
+3150,5,RX,-90,RHand
+3150,5,RZ,-15,RHand
+3150,6,RX,-105,RHand
+3150,6,RZ,0,RHand
+3150,7,RX,0,RHand
+3255,5,RX,-90,RHand
+3255,5,RZ,-15,RHand
+3255,6,RX,-90,RHand
+3255,6,RZ,-15,RHand
+3255,7,RX,0,RHand
+3360,5,RX,-90,RHand
+3360,5,RZ,-15,RHand
+3360,6,RX,-75,RHand
+3360,6,RZ,0,RHand
+3360,7,RX,0,RHand
+,,,,
+0,9,RX,-60,LHand
+0,9,RZ,-10,LHand
+0,10,RX,0,LHand
+0,10,RZ,-70,LHand
+0,11,RX,30,LHand
+3360,9,RX,-60,LHand
+3360,9,RZ,-10,LHand
+3360,10,RX,0,LHand
+3360,10,RZ,-70,LHand
+3360,11,RX,30,LHand
+,,,,
+,,,,
+,`====,PART 2,`====,
+,,,,
+3570,12,RX,-80,Foot Right
+3570,12,RZ,-15,Foot Right
+3570,13,RX,90,Foot Right
+3570,13,RZ,0,Foot Right
+3570,14,RX,30,Foot Right
+3570,16,RX,-5,Foot Right
+3570,16,RZ,15,Foot Right
+3570,17,RX,5,Foot Right
+3570,17,RZ,-5,Foot Right
+3570,18,RX,5,Foot Right
+3780,12,RX,-10,Foot Down
+3780,12,RZ,-15,Foot Down
+3780,13,RX,10,Foot Down
+3780,13,RZ,10,Foot Down
+3780,14,RX,10,Foot Down
+3780,16,RX,-10,Foot Down
+3780,16,RZ,15,Foot Down
+3780,17,RX,10,Foot Down
+3780,17,RZ,-10,Foot Down
+3780,18,RX,10,Foot Down
+3990,12,RX,-5,Foot Left
+3990,12,RZ,-15,Foot Left
+3990,13,RX,5,Foot Left
+3990,13,RZ,5,Foot Left
+3990,14,RX,5,Foot Left
+3990,16,RX,-80,Foot Left
+3990,16,RZ,15,Foot Left
+3990,17,RX,90,Foot Left
+3990,17,RZ,0,Foot Left
+3990,18,RX,30,Foot Left
+4200,12,RX,-10,Foot Down
+4200,12,RZ,-15,Foot Down
+4200,13,RX,10,Foot Down
+4200,13,RZ,10,Foot Down
+4200,14,RX,10,Foot Down
+4200,16,RX,-10,Foot Down
+4200,16,RZ,15,Foot Down
+4200,17,RX,10,Foot Down
+4200,17,RZ,-10,Foot Down
+4200,18,RX,10,Foot Down
+4410,12,RX,-80,Foot Right
+4410,12,RZ,-15,Foot Right
+4410,13,RX,90,Foot Right
+4410,13,RZ,0,Foot Right
+4410,14,RX,30,Foot Right
+4410,16,RX,-5,Foot Right
+4410,16,RZ,15,Foot Right
+4410,17,RX,5,Foot Right
+4410,17,RZ,-5,Foot Right
+4410,18,RX,5,Foot Right
+4620,12,RX,-10,Foot Down
+4620,12,RZ,-15,Foot Down
+4620,13,RX,10,Foot Down
+4620,13,RZ,10,Foot Down
+4620,14,RX,10,Foot Down
+4620,16,RX,-10,Foot Down
+4620,16,RZ,15,Foot Down
+4620,17,RX,10,Foot Down
+4620,17,RZ,-10,Foot Down
+4620,18,RX,10,Foot Down
+4830,12,RX,-80,Foot Right
+4830,12,RZ,-15,Foot Right
+4830,13,RX,90,Foot Right
+4830,13,RZ,0,Foot Right
+4830,14,RX,30,Foot Right
+4830,16,RX,-5,Foot Right
+4830,16,RZ,15,Foot Right
+4830,17,RX,5,Foot Right
+4830,17,RZ,-5,Foot Right
+4830,18,RX,5,Foot Right
+5040,12,RX,-10,Foot Down
+5040,12,RZ,-15,Foot Down
+5040,13,RX,10,Foot Down
+5040,13,RZ,10,Foot Down
+5040,14,RX,10,Foot Down
+5040,16,RX,-10,Foot Down
+5040,16,RZ,15,Foot Down
+5040,17,RX,10,Foot Down
+5040,17,RZ,-10,Foot Down
+5040,18,RX,10,Foot Down
+5250,12,RX,-5,Foot Left
+5250,12,RZ,-15,Foot Left
+5250,13,RX,5,Foot Left
+5250,13,RZ,5,Foot Left
+5250,14,RX,5,Foot Left
+5250,16,RX,-80,Foot Left
+5250,16,RZ,15,Foot Left
+5250,17,RX,90,Foot Left
+5250,17,RZ,0,Foot Left
+5250,18,RX,30,Foot Left
+5460,12,RX,-10,Foot Down
+5460,12,RZ,-15,Foot Down
+5460,13,RX,10,Foot Down
+5460,13,RZ,10,Foot Down
+5460,14,RX,10,Foot Down
+5460,16,RX,-10,Foot Down
+5460,16,RZ,15,Foot Down
+5460,17,RX,10,Foot Down
+5460,17,RZ,-10,Foot Down
+5460,18,RX,10,Foot Down
+5670,12,RX,-80,Foot Right
+5670,12,RZ,-15,Foot Right
+5670,13,RX,90,Foot Right
+5670,13,RZ,0,Foot Right
+5670,14,RX,30,Foot Right
+5670,16,RX,-5,Foot Right
+5670,16,RZ,15,Foot Right
+5670,17,RX,5,Foot Right
+5670,17,RZ,-5,Foot Right
+5670,18,RX,5,Foot Right
+5880,12,RX,-10,Foot Down
+5880,12,RZ,-15,Foot Down
+5880,13,RX,10,Foot Down
+5880,13,RZ,10,Foot Down
+5880,14,RX,10,Foot Down
+5880,16,RX,-10,Foot Down
+5880,16,RZ,15,Foot Down
+5880,17,RX,10,Foot Down
+5880,17,RZ,-10,Foot Down
+5880,18,RX,10,Foot Down
+6090,12,RX,-5,Foot Left
+6090,12,RZ,-15,Foot Left
+6090,13,RX,5,Foot Left
+6090,13,RZ,5,Foot Left
+6090,14,RX,5,Foot Left
+6090,16,RX,-80,Foot Left
+6090,16,RZ,15,Foot Left
+6090,17,RX,90,Foot Left
+6090,17,RZ,0,Foot Left
+6090,18,RX,30,Foot Left
+6300,12,RX,-10,Foot Down
+6300,12,RZ,-15,Foot Down
+6300,13,RX,10,Foot Down
+6300,13,RZ,10,Foot Down
+6300,14,RX,10,Foot Down
+6300,16,RX,-10,Foot Down
+6300,16,RZ,15,Foot Down
+6300,17,RX,10,Foot Down
+6300,17,RZ,-10,Foot Down
+6300,18,RX,10,Foot Down
+6510,12,RX,-5,Foot Left
+6510,12,RZ,-15,Foot Left
+6510,13,RX,5,Foot Left
+6510,13,RZ,5,Foot Left
+6510,14,RX,5,Foot Left
+6510,16,RX,-80,Foot Left
+6510,16,RZ,15,Foot Left
+6510,17,RX,90,Foot Left
+6510,17,RZ,0,Foot Left
+6510,18,RX,30,Foot Left
+6720,12,RX,-10,Foot Down
+6720,12,RZ,-15,Foot Down
+6720,13,RX,10,Foot Down
+6720,13,RZ,10,Foot Down
+6720,14,RX,10,Foot Down
+6720,16,RX,-10,Foot Down
+6720,16,RZ,15,Foot Down
+6720,17,RX,10,Foot Down
+6720,17,RZ,-10,Foot Down
+6720,18,RX,10,Foot Down
+,,,,
+3570,3,RY,15,Waist Twist
+3780,3,RY,0,Waist Twist
+3990,3,RY,-15,Waist Twist
+4200,3,RY,0,Waist Twist
+4410,3,RY,15,Waist Twist
+4620,3,RY,0,Waist Twist
+4830,3,RY,15,Waist Twist
+5040,3,RY,0,Waist Twist
+5250,3,RY,-15,Waist Twist
+5460,3,RY,0,Waist Twist
+5670,3,RY,15,Waist Twist
+5880,3,RY,0,Waist Twist
+6090,3,RY,-15,Waist Twist
+6300,3,RY,0,Waist Twist
+6510,3,RY,-15,Waist Twist
+6720,3,RY,0,Waist Twist
+,,,,
+3570,0,TY,0.7,Body Jump
+3780,0,TY,0,Body Jump
+3990,0,TY,0.7,Body Jump
+4200,0,TY,0,Body Jump
+4410,0,TY,0.7,Body Jump
+4620,0,TY,0,Body Jump
+4830,0,TY,0.7,Body Jump
+5040,0,TY,0,Body Jump
+5250,0,TY,0.7,Body Jump
+5460,0,TY,0,Body Jump
+5670,0,TY,0.7,Body Jump
+5880,0,TY,0,Body Jump
+6090,0,TY,0.7,Body Jump
+6300,0,TY,0,Body Jump
+6510,0,TY,0.7,Body Jump
+6720,0,TY,0,Body Jump
+,,,,
+3570,5,RX,-25,Hand Up
+3570,5,RZ,20,Hand Up
+3570,6,RX,-35,Hand Up
+3570,6,RZ,30,Hand Up
+3570,7,RX,50,Hand Up
+3570,9,RX,-25,Hand Up
+3570,9,RZ,-20,Hand Up
+3570,10,RX,-35,Hand Up
+3570,10,RZ,-30,Hand Up
+3570,11,RX,50,Hand Up
+3780,5,RX,-50,Hand Down
+3780,5,RZ,20,Hand Down
+3780,6,RX,-20,Hand Down
+3780,6,RZ,30,Hand Down
+3780,7,RX,-15,Hand Down
+3780,9,RX,-50,Hand Down
+3780,9,RZ,-20,Hand Down
+3780,10,RX,-20,Hand Down
+3780,10,RZ,-25,Hand Down
+3780,11,RX,-15,Hand Down
+3990,5,RX,-25,Hand Up
+3990,5,RZ,20,Hand Up
+3990,6,RX,-35,Hand Up
+3990,6,RZ,30,Hand Up
+3990,7,RX,50,Hand Up
+3990,9,RX,-25,Hand Up
+3990,9,RZ,-20,Hand Up
+3990,10,RX,-35,Hand Up
+3990,10,RZ,-30,Hand Up
+3990,11,RX,50,Hand Up
+4200,5,RX,-50,Hand Down
+4200,5,RZ,20,Hand Down
+4200,6,RX,-20,Hand Down
+4200,6,RZ,30,Hand Down
+4200,7,RX,-15,Hand Down
+4200,9,RX,-50,Hand Down
+4200,9,RZ,-20,Hand Down
+4200,10,RX,-20,Hand Down
+4200,10,RZ,-25,Hand Down
+4200,11,RX,-15,Hand Down
+4410,5,RX,-25,Hand Up
+4410,5,RZ,20,Hand Up
+4410,6,RX,-35,Hand Up
+4410,6,RZ,30,Hand Up
+4410,7,RX,50,Hand Up
+4410,9,RX,-25,Hand Up
+4410,9,RZ,-20,Hand Up
+4410,10,RX,-35,Hand Up
+4410,10,RZ,-30,Hand Up
+4410,11,RX,50,Hand Up
+4620,5,RX,-50,Hand Down
+4620,5,RZ,20,Hand Down
+4620,6,RX,-20,Hand Down
+4620,6,RZ,30,Hand Down
+4620,7,RX,-15,Hand Down
+4620,9,RX,-50,Hand Down
+4620,9,RZ,-20,Hand Down
+4620,10,RX,-20,Hand Down
+4620,10,RZ,-25,Hand Down
+4620,11,RX,-15,Hand Down
+4830,5,RX,-25,Hand Up
+4830,5,RZ,20,Hand Up
+4830,6,RX,-35,Hand Up
+4830,6,RZ,30,Hand Up
+4830,7,RX,50,Hand Up
+4830,9,RX,-25,Hand Up
+4830,9,RZ,-20,Hand Up
+4830,10,RX,-35,Hand Up
+4830,10,RZ,-30,Hand Up
+4830,11,RX,50,Hand Up
+5040,5,RX,-50,Hand Down
+5040,5,RZ,20,Hand Down
+5040,6,RX,-20,Hand Down
+5040,6,RZ,30,Hand Down
+5040,7,RX,-15,Hand Down
+5040,9,RX,-50,Hand Down
+5040,9,RZ,-20,Hand Down
+5040,10,RX,-20,Hand Down
+5040,10,RZ,-25,Hand Down
+5040,11,RX,-15,Hand Down
+5250,5,RX,-25,Hand Up
+5250,5,RZ,20,Hand Up
+5250,6,RX,-35,Hand Up
+5250,6,RZ,30,Hand Up
+5250,7,RX,50,Hand Up
+5250,9,RX,-25,Hand Up
+5250,9,RZ,-20,Hand Up
+5250,10,RX,-35,Hand Up
+5250,10,RZ,-30,Hand Up
+5250,11,RX,50,Hand Up
+5460,5,RX,-50,Hand Down
+5460,5,RZ,20,Hand Down
+5460,6,RX,-20,Hand Down
+5460,6,RZ,30,Hand Down
+5460,7,RX,-15,Hand Down
+5460,9,RX,-50,Hand Down
+5460,9,RZ,-20,Hand Down
+5460,10,RX,-20,Hand Down
+5460,10,RZ,-25,Hand Down
+5460,11,RX,-15,Hand Down
+5670,5,RX,-25,Hand Up
+5670,5,RZ,20,Hand Up
+5670,6,RX,-35,Hand Up
+5670,6,RZ,30,Hand Up
+5670,7,RX,50,Hand Up
+5670,9,RX,-25,Hand Up
+5670,9,RZ,-20,Hand Up
+5670,10,RX,-35,Hand Up
+5670,10,RZ,-30,Hand Up
+5670,11,RX,50,Hand Up
+5880,5,RX,-50,Hand Down
+5880,5,RZ,20,Hand Down
+5880,6,RX,-20,Hand Down
+5880,6,RZ,30,Hand Down
+5880,7,RX,-15,Hand Down
+5880,9,RX,-50,Hand Down
+5880,9,RZ,-20,Hand Down
+5880,10,RX,-20,Hand Down
+5880,10,RZ,-25,Hand Down
+5880,11,RX,-15,Hand Down
+6090,5,RX,-25,Hand Up
+6090,5,RZ,20,Hand Up
+6090,6,RX,-35,Hand Up
+6090,6,RZ,30,Hand Up
+6090,7,RX,50,Hand Up
+6090,9,RX,-25,Hand Up
+6090,9,RZ,-20,Hand Up
+6090,10,RX,-35,Hand Up
+6090,10,RZ,-30,Hand Up
+6090,11,RX,50,Hand Up
+6300,5,RX,-50,Hand Down
+6300,5,RZ,20,Hand Down
+6300,6,RX,-20,Hand Down
+6300,6,RZ,30,Hand Down
+6300,7,RX,-15,Hand Down
+6300,9,RX,-50,Hand Down
+6300,9,RZ,-20,Hand Down
+6300,10,RX,-20,Hand Down
+6300,10,RZ,-25,Hand Down
+6300,11,RX,-15,Hand Down
+6510,5,RX,-25,Hand Up
+6510,5,RZ,20,Hand Up
+6510,6,RX,-35,Hand Up
+6510,6,RZ,30,Hand Up
+6510,7,RX,50,Hand Up
+6510,9,RX,-25,Hand Up
+6510,9,RZ,-20,Hand Up
+6510,10,RX,-35,Hand Up
+6510,10,RZ,-30,Hand Up
+6510,11,RX,50,Hand Up
+6720,5,RX,-90,Hand RST
+6720,5,RZ,-15,Hand RST
+6720,6,RX,-75,Hand RST
+6720,6,RZ,0,Hand RST
+6720,7,RX,180,Hand RST
+6720,9,RX,-60,Hand RST
+6720,9,RZ,-10,Hand RST
+6720,10,RX,0,Hand RST
+6720,10,RZ,-70,Hand RST
+6720,11,RX,30,Hand RST
